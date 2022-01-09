@@ -1,4 +1,4 @@
-#!c:\users\rebeca\chatapp\chatvenv\scripts\python.exe
+#!C:\Users\Rebeca\chatapp\chatvenv\Scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
